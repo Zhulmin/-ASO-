@@ -1,9 +1,7 @@
-# -ASO-
-应用商店优化(ASO)
+# ASO学习笔记
 
 
-
-**[应用商店优化(ASO)](https://help.sensortower.com/zh-CN/support/solutions/folders/44000338171)**
+来源: **[应用商店优化(ASO)](https://help.sensortower.com/zh-CN/support/solutions/folders/44000338171)**
 
 
 
