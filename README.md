@@ -1,10 +1,10 @@
 # ASO学习笔记
 
 
-来源: **[应用商店优化(ASO)](https://help.sensortower.com/zh-CN/support/solutions/folders/44000338171)**
+来源: **[应用商店优化(ASO)](https://help.sensortower.com/s/topic/0TO6f000000tcfEGAQ/beginners-guide-to-aso?language=en_US)**
 
-地址变更
-https://help.sensortower.com/s/topic/0TO6f000000tcfEGAQ/beginners-guide-to-aso?language=zh_CN
+language=zh_CN 可以改为中文
+
 
 
 
