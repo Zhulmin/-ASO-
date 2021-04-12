@@ -226,8 +226,8 @@ Sensor Tower的用户评论板块可从App Store和Google Play商店中提取任
 通过以下实时关键字列表作为示例：假设关键字“copilot”始终位于＃35和＃20之间，那么您可能要考虑替换该关键字，因为它是唯一不在前十名中的关键字。
 
  
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/out18.png)
 
-[![img](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098854149/original/zAw7x2nu41U8HvOVyJLC0AYnCwcl4vM6gg.png?1585193459)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098854149/original/zAw7x2nu41U8HvOVyJLC0AYnCwcl4vM6gg.png?1585193459)
 
 
 
@@ -235,10 +235,10 @@ Sensor Tower的用户评论板块可从App Store和Google Play商店中提取任
 
 以下是按照流程使用[Sensor Tower](http://sensortower.com/)平台达到关键字优化的案例：
 
-1. 使用我们的[关键字研究](https://help.sensortower.com/zh-CN/support/solutions/articles/44000325808-应用商店优化aso-关键字研究)工具来研究您的初始关键字
-2. 使用[关键字排名](https://help.sensortower.com/zh-CN/support/solutions/articles/44000325806-应用商店优化aso-关键字排名)模块跟踪关键字排名
+1. 使用我们的[关键字研究](https://sensortower-help.force.com/en/s/article/ASO-Keyword-Research)工具来研究您的初始关键字
+2. 使用[关键字排名](https://sensortower-help.force.com/en/s/article/App-Profiles-Review-History)模块跟踪关键字排名
 3. 每周至少在Sensor Tower平台上查看和评估您的关键字排名一次
-4. 使用我们的[关键字建议](https://help.sensortower.com/zh-CN/support/solutions/articles/44000325810-应用商店优化aso-关键词建议)工具查找需要替换的关键字，并通过我们的[关键字间谍](https://help.sensortower.com/zh-CN/support/solutions/articles/44000325812-应用商店优化aso-关键字间谍)工具将竞争对手的关键字与您的关键字进行比较
+4. 使用我们的[关键字建议](https://sensortower-help.force.com/en/s/article/ASO-Keyword-Suggestions)工具查找需要替换的关键字，并通过我们的[关键字间谍](https://sensortower-help.force.com/en/s/article/ASO-Keyword-Spy)工具将竞争对手的关键字与您的关键字进行比较
 5. 向应用商店提交新的关键字
 6. 重复第2步，直到您达到理想效果，例如查绝大部分关键字都能进入前十排名
 7. 
