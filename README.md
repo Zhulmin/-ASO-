@@ -103,7 +103,7 @@ app在该关键字下获得排名的难度
 <span style="color:red">关键字还有个排名前十概率的参数</span>
 
 
-![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/ranking.png)
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/ranking.gif)
 
 
 
@@ -159,7 +159,7 @@ app在该关键字下获得排名的难度
 
  
 
-![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/description.png)
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/descript.png)
 
 
 
