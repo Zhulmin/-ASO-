@@ -54,7 +54,7 @@ app在该关键字下获得排名的难度
 
 如果您的App已经在iTunes或者Google Play上线时间超过一个月并且已经做过一定程度的商店优化，找到有理想的难度评分的关键字应该不难。例如，下列是您排名情况最好的三个关键字及其排名情况。因为您的App既有iPhone又有iPad的版本，您将需要考虑分别为iPhone和iPad版本应用程序使用的关键字。
 
-[![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/calculate.png)](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/calculate.png)
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/calculate.png)
 
 在这个例子中，因为您的App就这两个关键字取得了前十的排名，您可以首先瞄准前两个关键字并取平均值。我们将不会把“enigma”这个关键字纳入计算，因为未进入前十排名的关键字可不予以考虑。
 
@@ -102,7 +102,8 @@ app在该关键字下获得排名的难度
 
 <span style="color:red">关键字还有个排名前十概率的参数</span>
 
-![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/keyword.png)
+
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/ranking.png)
 
 
 
@@ -122,8 +123,8 @@ app在该关键字下获得排名的难度
 
 查看您的竞争对手正在使用的关键字能为您自己的应用程序的关键字提供灵感。您可进入Sensor Tower的[主页面](https://sensortower.com/)对您的竞品进行查看。以大型游戏部落冲突Clash of Clans为例，我们可以直观看到部落冲突目前进行排名的关键字：
 
-[
-![img](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202798/original/vDDSt774PVwtPKkrWSiOynP3wDr97EGy4Q.png?1585013391)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202798/original/vDDSt774PVwtPKkrWSiOynP3wDr97EGy4Q.png?1585013391)
+
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/clan_keywork.png)
 
 您还可以通过此方法对同类别的其他应用程序的关键字进行查看。但一定记住对于一个好的关键字来说最重要的三个要素：相关性、流量和难度系数。
 
@@ -131,9 +132,8 @@ app在该关键字下获得排名的难度
 
 在Sensor Tower上，您可使用关键字间谍模块来帮助您了解竞争对手的关键字并评估您自己的关键字策略。 此工具将提取您的应用程序和竞品当前在应用商店中进行排名的所有关键字。 关键字旁边的数字为该应用程序就此关键字的当前排名，用颜色标示出的关键字为已在应用程序标题中使用过的词。 
 
-[
-![img](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202802/original/ye8JayZraGK0CCKL5Rxcr_RnzvF8pVUpOA.png?1585013392)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202802/original/ye8JayZraGK0CCKL5Rxcr_RnzvF8pVUpOA.png?1585013392)
 
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/spy_track.png)
 
 
 您可以通过此模块真正深入了解竞争对手当前正在使用的关键字，并将您的关键字与竞争对手的关键字进行对比以获取新的关键字的灵感。 您还可以通过单击“Track these keywords”直接对竞品的关键字进行跟踪观测，这些新的关键字将在您查看关键字排名模块时呈现在您的列表里。
@@ -144,9 +144,12 @@ app在该关键字下获得排名的难度
 
 此外，Sensor Tower的关键字建议模块会基于您现在已在使用的并有排名记录的关键字产生新的关键字。通过调整关键字的加权，您可以查看相关性更强的更精细化新的关键字，并剔除那些比较笼统的新关键字建议。
 
-[![img](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202801/original/6ZBD71sndo1K9YleMePkCdpRxT9WlX8apg.png?1585013391)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202801/original/6ZBD71sndo1K9YleMePkCdpRxT9WlX8apg.png?1585013391)
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/suggest.png)
 
 
+**关键字下载**
+
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/download.png)
 
  **应用程序描述**
 
@@ -156,9 +159,7 @@ app在该关键字下获得排名的难度
 
  
 
-
-
-[![img](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202803/original/Ufeabz9LlyOSRYg6zH3mUEs1PINOd0fSJw.png?1585013392)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202803/original/Ufeabz9LlyOSRYg6zH3mUEs1PINOd0fSJw.png?1585013392)
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/description.png)
 
 
 
