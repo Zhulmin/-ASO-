@@ -54,7 +54,7 @@ app在该关键字下获得排名的难度
 
 如果您的App已经在iTunes或者Google Play上线时间超过一个月并且已经做过一定程度的商店优化，找到有理想的难度评分的关键字应该不难。例如，下列是您排名情况最好的三个关键字及其排名情况。因为您的App既有iPhone又有iPad的版本，您将需要考虑分别为iPhone和iPad版本应用程序使用的关键字。
 
-![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/rtaImage.png)
+[![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/calculate.png)](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/calculate.png)
 
 在这个例子中，因为您的App就这两个关键字取得了前十的排名，您可以首先瞄准前两个关键字并取平均值。我们将不会把“enigma”这个关键字纳入计算，因为未进入前十排名的关键字可不予以考虑。
 
@@ -102,7 +102,7 @@ app在该关键字下获得排名的难度
 
 <span style="color:red">关键字还有个排名前十概率的参数</span>
 
-[![img](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202797/original/XBn_rtI8126wPkPd2L-DdGROgMJRYf_RTA.png?1585013390)](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/2043098202797/original/XBn_rtI8126wPkPd2L-DdGROgMJRYf_RTA.png?1585013390)
+![img](https://raw.githubusercontent.com/Zhulmin/Picture-Resource/master/keyword.png)
 
 
 
